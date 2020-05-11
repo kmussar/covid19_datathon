@@ -19,5 +19,12 @@ COVID-19 is not the “great equalizer” that some may claim it to be, with pre
 and 
 2. What is the connection between the geographical layout of the city and COVID-19 disparities? E.g. neighborhood-by-neighborhood differences? 
 
-For more information, please visit: 
+**For more information, please visit:**
 https://covid19challenge.mit.edu/datathon/
+
+
+Our work in progress can be found in this repo as well as in the following documents: 
+Collection of datasets that we could use: https://docs.google.com/spreadsheets/d/1rAUSdtmXQHKQXrCZhc7qtYikGUuBIVbaacKVT95AvxY/edit?usp=sharing
+Brainstorming and planning notes: https://docs.google.com/document/d/1AzrtDmus2_ie_O9ZNK4mi6greaRtSINVXYbBBV4G6cM/edit?usp=sharing
+
+
