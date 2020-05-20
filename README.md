@@ -1,11 +1,11 @@
 # covid19_datathon
 This repo holds files for a group project for MIT's COVID-19 week long part time Datathon. Our team focused on disparities in health outcomes from COVID-19, specifically: 
-1. How complete is COVID-19 mortality data by race in the USA?
-2. How great is the disparity, and what factors might be contributing?
+* How complete is COVID-19 mortality data by race in the USA?
+* How great is the disparity, and what factors might be contributing?
 
 TEAM:
-Team members: Kristin Mussar, Megan O’Rorke, Bing Han & Timothy Sokphat
-Mentors: Michael Williams from PACE Healthcare Capital & Lauren Chambers from ACLU
+* Team members: Kristin Mussar, Megan O’Rorke, Bing Han & Timothy Sokphat
+* Mentors: Michael Williams from PACE Healthcare Capital & Lauren Chambers from ACLU
 
 CONTRIBUTION FOCUS AREAS:
 * Data analysis of disparity factors: Kristin Mussar (eda folder, files starting with "KM") 
@@ -13,7 +13,7 @@ CONTRIBUTION FOCUS AREAS:
 * Literature review: Bing Han (see prior research in slides PDF)
 * Presentation deck: Timothy Sokphat (see slides PDF)
 
-DATA SOURCES
+DATA SOURCES:
 * COVID Racial Data Tracker
 * CDC Death Distributions among Minorities
 * COVID-19 Community Vulnerability Index (CCVI)
@@ -29,9 +29,8 @@ The MIT COVID19-Datathon is an effort to understand the impact of COVID-19 acros
 
 There are ~400 participants across 5 tracks in teams of 3-7 participants. The datathon organiziers describe the disparities in health outcomes area of research as follows: COVID-19 is not the “great equalizer” that some may claim it to be, with preliminary data from the United States and other jurisdictions indicating that the burden of the pandemic is falling disproportionately upon certain marginalized groups. In this track, the goal is to perform data-driven analyses to characterize and understand the nature and magnitude of these disparities, as well as their structural and policy determinants. We will be analyzing datasets related to the prevalence of COVID-19 among different populations, the outcomes of cases in those populations, and structural determinants such as socio-economic status and food security.
 
-For more information visit:
-https://covid19challenge.mit.edu/datathon/
+For more information visit https://covid19challenge.mit.edu/datathon/
 
-Project working documents: 
-Dataset ideation: https://docs.google.com/spreadsheets/d/1rAUSdtmXQHKQXrCZhc7qtYikGUuBIVbaacKVT95AvxY/edit?usp=sharing
-Meeting notes: https://docs.google.com/document/d/1AzrtDmus2_ie_O9ZNK4mi6greaRtSINVXYbBBV4G6cM/edit?usp=sharing
+PROJECT DOCUMENTS: 
+* Dataset ideation: https://docs.google.com/spreadsheets/d/1rAUSdtmXQHKQXrCZhc7qtYikGUuBIVbaacKVT95AvxY/edit?usp=sharing
+* Meeting notes: https://docs.google.com/document/d/1AzrtDmus2_ie_O9ZNK4mi6greaRtSINVXYbBBV4G6cM/edit?usp=sharing
