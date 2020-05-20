@@ -1,5 +1,5 @@
 # covid19_datathon
-This repo holds files for a group project for MIT's COVID-19 week long part time Datathon (https://covid19challenge.mit.edu/datathon/). Our team focused on disparities in health outcomes from COVID-19, specifically: 
+This repo holds files for a group project for MIT's COVID-19 week long part time Datathon. Our team focused on disparities in health outcomes from COVID-19, specifically: 
 1. How complete is COVID-19 mortality data by race in the USA?
 2. How great is the disparity, and what factors might be contributing?
 
