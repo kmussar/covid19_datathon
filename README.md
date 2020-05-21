@@ -1,7 +1,7 @@
 # covid19_datathon
 This repo holds files for a group project for MIT's COVID-19 week long part time Datathon. Our team focused on disparities in health outcomes from COVID-19, specifically: 
 * How complete is COVID-19 mortality data by race in the USA?
-* How great is the disparity, and what factors might be contributing?
+* What socioeconomic factors contribute most to racial disparities in mortality from COVID-19? 
 
 TEAM:
 * Team members: Kristin Mussar, Megan O’Rorke, Bing Han & Timothy Sokphat
