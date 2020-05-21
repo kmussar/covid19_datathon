@@ -30,7 +30,3 @@ The MIT COVID19-Datathon is an effort to understand the impact of COVID-19 acros
 There are ~400 participants across 5 tracks in teams of 3-7 participants. The datathon organiziers describe the disparities in health outcomes area of research as follows: COVID-19 is not the “great equalizer” that some may claim it to be, with preliminary data from the United States and other jurisdictions indicating that the burden of the pandemic is falling disproportionately upon certain marginalized groups. In this track, the goal is to perform data-driven analyses to characterize and understand the nature and magnitude of these disparities, as well as their structural and policy determinants. We will be analyzing datasets related to the prevalence of COVID-19 among different populations, the outcomes of cases in those populations, and structural determinants such as socio-economic status and food security.
 
 For more information visit https://covid19challenge.mit.edu/datathon/
-
-PROJECT DOCUMENTS: 
-* Dataset ideation: https://docs.google.com/spreadsheets/d/1rAUSdtmXQHKQXrCZhc7qtYikGUuBIVbaacKVT95AvxY/edit?usp=sharing
-* Meeting notes: https://docs.google.com/document/d/1AzrtDmus2_ie_O9ZNK4mi6greaRtSINVXYbBBV4G6cM/edit?usp=sharing
