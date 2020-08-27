@@ -4,8 +4,8 @@ This repo holds files for a group project for MIT's COVID-19 week long part time
 * What socioeconomic factors contribute most to racial disparities in mortality from COVID-19? 
 
 TEAM:
-* Team members: [Kristin Mussar](https://www.linkedin.com/in/kmussar), [Megan O’Rorke](https://www.linkedin.com/in/meganororke/), Bing Han & Timothy Sokphat
-* Mentors: Michael Williams from PACE Healthcare Capital & Lauren Chambers from ACLU
+* Team members: [Kristin Mussar](https://www.linkedin.com/in/kmussar), [Megan O’Rorke](https://www.linkedin.com/in/meganororke/), [Bing Han](https://www.linkedin.com/in/allison-h-a4218217a/) & [Timothy Sokphat](https://www.linkedin.com/in/timothy-s-347988156/)
+* Mentors: [Michael Williams](https://www.linkedin.com/in/michael-williams-1b41952/) from PACE Healthcare Capital & [Lauren Chambers](https://www.linkedin.com/in/lauren-chambers-abbb91b0/) from ACLU
 
 CONTRIBUTION FOCUS AREAS:
 * Data analysis of disparity factors: Kristin Mussar (eda folder, files starting with "KM") 
