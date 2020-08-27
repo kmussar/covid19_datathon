@@ -8,12 +8,12 @@ TEAM:
 * Mentors: [Michael Williams](https://www.linkedin.com/in/michael-williams-1b41952/) from PACE Healthcare Capital & [Lauren Chambers](https://www.linkedin.com/in/lauren-chambers-abbb91b0/) from ACLU
 
 CONTRIBUTION FOCUS AREAS:
-* Data analysis of disparity factors: Kristin Mussar (eda folder, files starting with "KM") 
-* Data analysis & visualization of missing race data: Megan O’Rorke (eda/eda_race_coverage_map.ipynb & images folder)
-* Literature review: Bing Han (see prior research in slides PDF)
-* Presentation deck: Timothy Sokphat (see slides PDF)
+* [Data analysis](https://github.com/kmussar/covid19_datathon/tree/master/eda) & [visualization](https://github.com/kmussar/covid19_datathon/tree/master/images) of disparity factors: Kristin Mussar (eda folder, files starting with "KM") 
+* [Data analysis](https://github.com/kmussar/covid19_datathon/blob/master/eda/eda_race_coverage_map.ipynb) & [visualization](https://github.com/kmussar/covid19_datathon/tree/master/images) of missing race data: Megan O’Rorke (eda/eda_race_coverage_map.ipynb & images folder)
+* [Literature review](https://github.com/kmussar/covid19_datathon/blob/master/slides/TrackC-Team7.pdf): Bing Han (see prior research in slides PDF)
+* [Presentation deck](https://github.com/kmussar/covid19_datathon/blob/master/slides/TrackC-Team7.pdf): Timothy Sokphat (see slides PDF)
 
-DATA SOURCES:
+[DATA SOURCES](https://github.com/kmussar/covid19_datathon/tree/master/data):
 * COVID Racial Data Tracker
 * CDC Death Distributions among Minorities
 * COVID-19 Community Vulnerability Index (CCVI)
