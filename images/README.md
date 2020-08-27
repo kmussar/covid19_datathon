@@ -1,5 +1,7 @@
 Please also see this series of maps visualizing the disparity of COVID-19 deaths by race. The data was visualized using Tableau and can be found here: https://public.tableau.com/profile/kristin.mussar#!/vizhome/maps_of_disparity_state/White. 
 
+![Image](map_of_disparity_black.png)
+
 **Data Source:**
 Data was collected and normalized by the CDC. It was downloaded on May 13, 2020 from: https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
 
