@@ -4,7 +4,7 @@ This repo holds files for a group project for MIT's COVID-19 week long part time
 * What socioeconomic factors contribute most to racial disparities in mortality from COVID-19? 
 
 TEAM:
-* Team members: Kristin Mussar, Megan O’Rorke, Bing Han & Timothy Sokphat
+* Team members: [Kristin Mussar](https://www.linkedin.com/in/kmussar), [Megan O’Rorke](https://www.linkedin.com/in/meganororke/), Bing Han & Timothy Sokphat
 * Mentors: Michael Williams from PACE Healthcare Capital & Lauren Chambers from ACLU
 
 CONTRIBUTION FOCUS AREAS:
