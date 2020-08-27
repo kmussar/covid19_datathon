@@ -1,3 +1,4 @@
+# Covid disparities by Race
 Please also see this series of maps visualizing the disparity of COVID-19 deaths by race. The data was visualized using Tableau and can be found here: https://public.tableau.com/profile/kristin.mussar#!/vizhome/maps_of_disparity_state/White. 
 
 ![Image](map_of_disparity_black.png)
@@ -16,3 +17,6 @@ We defined the disparity score as the % COVID-19 deaths - % state's population f
 * Other 
 
 For details on how each race is defined, please see the CDC notes referenced above. 
+
+# Covid data coverage by state
+![image](race_coverage_percent_by_state.png)
