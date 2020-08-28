@@ -3,6 +3,8 @@ This repo holds files for a group project for MIT's COVID-19 week long part time
 * How complete is COVID-19 mortality data by race in the USA?
 * What socioeconomic factors contribute most to racial disparities in mortality from COVID-19? 
 
+Please see the [README within the eda folder](https://github.com/kmussar/covid19_datathon/tree/master/eda) for a description of our approach and findings. 
+
 TEAM:
 * Team members: [Kristin Mussar](https://www.linkedin.com/in/kmussar), [Megan O’Rorke](https://www.linkedin.com/in/meganororke/), [Bing Han](https://www.linkedin.com/in/allison-h-a4218217a/) & [Timothy Sokphat](https://www.linkedin.com/in/timothy-s-347988156/)
 * Mentors: [Michael Williams](https://www.linkedin.com/in/michael-williams-1b41952/) from PACE Healthcare Capital & [Lauren Chambers](https://www.linkedin.com/in/lauren-chambers-abbb91b0/) from ACLU
