@@ -4,8 +4,9 @@
 
   Cases and Deaths are reported at the county level, across the USA. Data was downloaded from https://github.com/nytimes/covid-19-data on May 11, 2020.
 * **COVID-19 deaths by race collected and reported by the CDC.** 
-Data was collected and normalized by the CDC. It was downloaded on May 13, 2020 from: https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
-Importantly, the percentage of racial/ethnic groups per state population that is reported has been weighted. These weights ensure that the population estimates and percentage of COVID deaths represent comparable geographic areas. To see more details on how the weighted percentages were calculated, please visit: https://www.cdc.gov/nchs/nvss/vsrr/covid19/tech_notes.htm
+
+  Data was collected and normalized by the CDC. It was downloaded on May 13, 2020 from: https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
+  Importantly, the percentage of racial/ethnic groups per state population that is reported has been weighted. These weights ensure that the population estimates and       percentage of COVID deaths represent comparable geographic areas. To see more details on how the weighted percentages were calculated, please visit: https://www.cdc.gov/nchs/nvss/vsrr/covid19/tech_notes.htm
 * **Community-level vulnerability index scores reported by The Surgo Foundation.**  
   > county_ccvi.csv
 
@@ -18,10 +19,15 @@ Importantly, the percentage of racial/ethnic groups per state population that is
     * healthcare system factors
 
 * **Detailed demographic data at the county level from Johns Hopkins Univerisity.** 
-Downloaded from: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data Dataset includes 347 features - demographic, socioeconomic, health care, education and transit data for each county in the 50 states and Washington DC. Note that this also includes analogous data for states, as available.
+
+  Downloaded from: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data Dataset includes 347 features - demographic, socioeconomic, health  care, education and transit data for each county in the 50 states and Washington DC. Note that this also includes analogous data for states, as available.
+
+* **COVID Race Tracker** 
+
+  Data was collected by The Atlantic and downloaded on May 11, 2020. To find out more information about this dataset, visit: https://covidtracking.com/data. 
 
 
-* county_detailed_demographics_and_deaths.csv
+* **county_detailed_demographics_and_deaths.csv**
   
   For code on genrating this CSV, see [notebook: 'KM_merge_datasets_county_level_demographics_and_covid_deaths.ipynb'](https://github.com/kmussar/covid19_datathon/blob/master/eda/KM_merge_datasets_county_level_demographics_and_covid_deaths.ipynb)
     This CSV is the product of merging the following datasets on FIPS code. 
