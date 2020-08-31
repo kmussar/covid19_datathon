@@ -1,4 +1,4 @@
-# Which socioeconomic factors contribute most to racial disparities in morbidity from COVID-19?
+# Which socioeconomic factors contribute most to racial disparities in mortality from COVID-19?
 
 ## Investigating Racial Disparities at the state-level:
 ### Datasets: 
