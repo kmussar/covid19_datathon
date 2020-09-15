@@ -20,7 +20,7 @@ We visualized these scores on a map for each race of the following.
 * White 
 * Other 
 
-You can see each of these maps on Tableau here: [Tableau maps](https://public.tableau.com/profile/kristin.mussar#!/vizhome/maps_of_disparity_state/White) 
+You can see each of these [maps on Tableau](https://public.tableau.com/profile/kristin.mussar#!/vizhome/maps_of_disparity_state/White).  
 
 An example of one such map is shown below. This map shows the disparity scores for each state for Black patients. A higher score indicates that there are more COVID-19 deaths in the Black population of that state than the population of Black people in the state. As an example, South Carolina's population is 30% Black, yet 54% of their COVID-19 deaths are in Black patients.  
 
@@ -35,7 +35,7 @@ If we look at one group, Black patients (second row), we can see that the dispar
 
 ## Alternate Approaches:
 ### Defining disparity in regards to COVID-19 positive tests 
-* **Notebook: 'KM_Disparity_positives_to_deaths.ipynb'** 
+* **Notebook: ['KM_Disparity_positives_to_deaths.ipynb'](https://github.com/kmussar/covid19_datathon/blob/master/eda/KM_Disparity_positives_to_deaths.ipynb)** 
 * Data: race data tracker 
 
 We have thus far defined disparity scores as the difference in representation in COVID-19 deaths compared to representation in the population. Another way to look at disparity is to calculate the mortality rate of COVID-19 for each race as the % of patients who die from the disease out of the # of patients who test positive for this. I started to look into this, however came to the conclusion that testing data was very unreliable and these numbers would be suspect. 
@@ -51,6 +51,6 @@ The dataset that I used was the county-level detailed demographic dataset from J
 
 ## Future Directions
 ### Investigating racial disparities at the county-level
-* **Notebook: 'KM_merge_datasets_county_level_demographics_and_covid_deaths.ipynb'**
+* **Notebook: ['KM_merge_datasets_county_level_demographics_and_covid_deaths.ipynb'](https://github.com/kmussar/covid19_datathon/blob/master/eda/KM_merge_datasets_county_level_demographics_and_covid_deaths.ipynb)**
 * Data: 'county_detailed_demographics_and_deaths.csv'
 I started to investigate disparity in COVID-19 mortality at the county level. Specifically, I was looking at the detailed demographic information from JHU, combined with county-level deaths. The notebook above contains my prelimiinary analysis, but unfortunately we ran out of time to continue this work during the datathon. This is a great place to pick up the work again and continue this investigation! 
